@@ -1,13 +1,14 @@
-# College-Placement-Prediction-Model
-1. About the Dataset:
+# College-Placement-Prediction
+
+# 1. About the Dataset:
 Description: Dive into the world of college placements with this dataset designed to unravel the factors influencing student placement outcomes. The dataset comprises crucial parameters such as IQ scores, CGPA (Cumulative Grade Point Average), and placement status. Aspiring data scientists, researchers, and enthusiasts can leverage this dataset to uncover patterns and insights that contribute to a deeper understanding of successful college placements.
 
-2. Projects Idea:
+# 2. Project Idea:
 Objective 1: Predictive Modeling for College Placements Utilize machine learning algorithms to build a predictive model that forecasts a student's likelihood of placement based on their IQ scores and CGPA. Evaluate and compare the effectiveness of different algorithms to enhance prediction accuracy.
 
 Objective 2: Feature Importance Analysis Conduct a feature importance analysis to identify the key factors that significantly influence placement outcomes. Gain insights into whether IQ, CGPA, or a combination of both plays a more dominant role in determining success.
 
-3. Columns Explanation:
+# 3. Columns Explanation:
 IQ:
 Definition: Intelligence Quotient, a measure of a person's intellectual abilities.
 Data Type: Numeric
